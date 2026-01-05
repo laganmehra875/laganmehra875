@@ -1,3 +1,4 @@
+x
 <h1 align="center">Hi 👋 I’m Lalit Mehra</h1>
 <h3 align="center">I’m currently pursuing a Data Science course</h3>
 
@@ -5,11 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laganmehra875" alt="laganmehra875" /></a> </p>
 
-- 🌱 I’m currently learning **Python, NumPy, Pandas, Matplotlib,seaborn, Machine Learning, SQL, Statistics, PowerBI**
-
 - 👨‍💻 All of my projects are available at [https://github.com/laganmehra875](https://github.com/laganmehra875)
-
-- 💬 Ask me about **Python,MY-SQL,Data Analysis, Machine Learning Basics**
 
 - 📫 How to reach me **laganmehra875@gmail.com**
 
