@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I’m Lalit Mehra</h1>
-<h3 align="center">I’m currently pursuing a ***Data Science*** course</h3>
+<h3 align="center">I’m currently pursuing a Data Science course</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laganmehra875&label=Profile%20views&color=0e75b6&style=flat" alt="laganmehra875" /> </p>
 
