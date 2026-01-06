@@ -12,8 +12,17 @@ Email Me 👉 ✉️ **laganmehra875@gmail.com** for collaboration, projects, or
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I enjoy solving real-world problems using data 📊
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lalitmehra492_18745) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lalit_mehra_492) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit(lagan)mehra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@lalitmehra8055) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laganmehra875@gmail.com) 
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 ## 🏆 GitHub Trophies
