@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Lalit Mehra
+**Pursuing Data Science Course**
+
+Email Me 👉 ✉️ **laganmehra875@gmail.com** for collaboration, projects, or queries 😊
+
+- 🔭 **I’m currently working on:** Data Analysis & Machine Learning practice projects  
+- 🌱 **I’m currently learning:** MySQL, NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Statistics, Machine Learning ,NLP,Deep Learning 
+- 👯 **I’m looking to collaborate on:** Data Analysis, Machine Learning & real-world Data Science projects  
+- 🤔 **I’m looking for help with:** Data analysis & preprocessing,Advanced Machine Learning concepts & model deployment  
+- 💬 **Ask me about:** Python, Data Analysis, SQL, Machine Learning basics  
+- 📫 **How to reach me:** laganmehra875@gmail.com  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I enjoy solving real-world problems using data 📊
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lalitmehra492_18745) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lalit_mehra_492) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit(lagan)mehra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@lalitmehra8055) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laganmehra875@gmail.com) 
