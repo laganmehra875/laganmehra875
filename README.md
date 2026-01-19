@@ -96,9 +96,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/main/banner.gif" alt="Profile Banner" width="100%" />
-
----
 
 ## 🎓 Education
 
