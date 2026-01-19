@@ -100,3 +100,69 @@ because I love finding patterns in numbers and turning data into decisions.
 - Building **real-world datasets & projects**
 
 📊 *Data is not just numbers, it's a story waiting to be told.*
+
+## 🧠 What I Can Do With Data
+
+✔ Clean messy datasets  
+✔ Perform Exploratory Data Analysis (EDA)  
+✔ Visualize insights using charts & dashboards  
+✔ Write efficient SQL queries  
+✔ Build basic Machine Learning models  
+✔ Explain results in **simple business language**
+
+
+## ⚡ Skills Snapshot
+
+Python            █████████░░ 85%  
+Pandas & NumPy    ████████░░░ 80%  
+SQL               ███████░░░░ 70%  
+Data Visualization ████████░░░ 80%  
+Machine Learning   ██████░░░░░ 60%
+
+
+## 🛠️ Currently Building
+
+🔹 Sales Data Analysis Dashboard  
+🔹 IPL Match Data Analysis (Python + Pandas)  
+🔹 Customer Segmentation using ML  
+🔹 SQL Case Study Projects  
+
+📂 *All projects are uploaded with clean code & explanations.*
+
+
+## 💼 Why My Commerce Background Helps in Data Science
+
+📊 Strong understanding of:
+- Finance & Accounting
+- Business KPIs
+- Market trends
+- Cost & profit analysis
+
+💡 I don’t just analyze data —  
+I **understand the business behind the data**.
+
+
+
+## 📚 How I Learn Data Science
+
+🔹 Learn concept →  
+🔹 Apply on dataset →  
+🔹 Visualize insights →  
+🔹 Document learnings →  
+🔹 Improve & repeat  
+
+📌 *Consistency > Motivation*
+
+
+## 🗓️ Weekly Focus
+
+✅ Practice Pandas & NumPy  
+✅ Solve SQL queries  
+⬜ Build ML model  
+⬜ Upload one project  
+
+🎯 Goal: Become job-ready Data Analyst
+
+
+> "Without data, you're just another person with an opinion." – W. Edwards Deming
+
