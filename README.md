@@ -17,6 +17,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - 💻 Strong in **Python, SQL, Pandas, NumPy**
 - 🧠 Experience with **EDA, Visualization & ML models**
 - ⚡ Motto: **Learn. Apply. Deliver. 🚀**
+- 📧 Email: **Laganmehra875@gmail.com**
 
 ---
 
