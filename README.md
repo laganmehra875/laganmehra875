@@ -46,9 +46,7 @@
 ## 📫 Get in Touch
 
 - 📧 Email: **Laganmehra875@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 🐦 Twitter/X: https://twitter.com/YOUR_USERNAME
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💻 GitHub: https://github.com/laganmehra875
 
 ---
 
