@@ -67,6 +67,13 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </p>
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laganmehra875&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
