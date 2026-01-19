@@ -38,13 +38,15 @@
 - Python & SQL based analysis
 - Machine Learning mini-projects
 
-
+🔗 **Portfolio (Coming Soon)**  
+👉 https://YOUR_USERNAME.github.io
 
 ---
 
 ## 📫 Get in Touch
 
 - 📧 Email: **Laganmehra875@gmail.com**
+- 💼 LinkedIn: www.linkedin.com/in/lalit-mehra-539186281
 - 💻 GitHub: https://github.com/laganmehra875
 
 ---
@@ -52,24 +54,15 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,seaborn,matplotlib,mysql,git,github,linux,excel,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,excel,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-</p>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
