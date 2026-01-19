@@ -1,49 +1,89 @@
-# 💫 Hi 👋, I'm Lalit Mehra
-**Pursuing Data Science Course**
+<h1 align="center">Hi 👋, I'm Lalit Mehra</h1>
+<h3 align="center">Data Science Aspirant | Full Stack Enthusiast | Problem Solver</h3>
 
-Email Me 👉 ✉️ **laganmehra875@gmail.com** for collaboration, projects, or queries 😊
-
-- 🔭 **I’m currently working on:** Data Analysis & Machine Learning practice projects  
-- 🌱 **I’m currently learning:** MySQL, NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Statistics, Machine Learning ,NLP,Deep Learning 
-- 👯 **I’m looking to collaborate on:** Data Analysis, Machine Learning & real-world Data Science projects  
-- 🤔 **I’m looking for help with:** Data analysis & preprocessing,Advanced Machine Learning concepts & model deployment  
-- 💬 **Ask me about:** Python, Data Analysis, SQL, Machine Learning basics  
-- 📫 **How to reach me:** laganmehra875@gmail.com  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I enjoy solving real-world problems using data 📊
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lalitmehra492_18745) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lalit_mehra_492) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit(lagan)mehra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@lalitmehra8055) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laganmehra875@gmail.com) 
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=laganmehra875&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laganmehra875&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=laganmehra875&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=laganmehra875&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Repeat.;&center=true&width=500&height=45">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=laganmehra875&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** currently pursuing a career in  
+**Data Science & Analytics**, with strong interest in **Python, SQL, Machine Learning, and Data Visualization**.
+
+- 🎓 Education: **Bachelor of Commerce (B.Com)**
+- 📊 Currently learning **Data Science & Machine Learning**
+- 💻 Passionate about **data-driven decision making**
+- 🧠 Strong foundation in **statistics, Python & SQL**
+- ⚡ Motto: **Learn. Apply. Improve. 🚀**
+
+---
+
+## 🧠 Currently Learning
+
+- Python for Data Science
+- Pandas, NumPy, Matplotlib, Seaborn
+- SQL & Database Analysis
+- Machine Learning Fundamentals
+- Real-world Data Analysis Projects
+
+---
+
+## 💼 Projects
+
+📌 Some of my work includes:
+- Exploratory Data Analysis (EDA)
+- Data Visualization Dashboards
+- Python & SQL based analysis
+- Machine Learning mini-projects
+
+🔗 **Portfolio (Coming Soon)**  
+👉 https://YOUR_USERNAME.github.io
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: **Laganmehra875@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- 🐦 Twitter/X: https://twitter.com/YOUR_USERNAME
+- 💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,excel,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎓 Education
+
+- 🎓 **Bachelor of Commerce (B.Com)**
+- 📊 **Currently pursuing Data Science**
+
+---
+
+## 🤝 Let’s Connect!
+
+💡 Interested in:
+- Data Analysis Projects
+- Machine Learning
+- Python & SQL based applications
+
+🚀 *Always open to learning and collaboration!*
