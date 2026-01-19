@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalit Mehra</h1>
+<h1 align="center">💫Hi 👋, I'm Lalit Mehra</h1>
 <h3 align="center">Data Science Aspirant | Full Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -12,7 +12,6 @@
 👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** currently pursuing a career in  
 **Data Science & Analytics**, with strong interest in **Python, SQL, Machine Learning, and Data Visualization**.
 
-# 💫 Hi 👋, I'm Lalit Mehra
 *Pursuing Data Science Course*
 
 Email Me 👉 ✉️ *laganmehra875@gmail.com* for collaboration, projects, or queries 😊
