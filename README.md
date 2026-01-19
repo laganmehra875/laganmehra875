@@ -86,3 +86,17 @@
 - Python & SQL based applications
 
 🚀 *Always open to learning and collaboration!*
+
+
+## 📈 My Data Science Journey
+
+I come from a **Commerce background (B.Com)** and transitioned into **Data Science**
+because I love finding patterns in numbers and turning data into decisions.
+
+📌 Journey:
+- Started with **Excel & Business Analytics**
+- Learned **Python & SQL for data analysis**
+- Practicing **EDA, visualization & ML**
+- Building **real-world datasets & projects**
+
+📊 *Data is not just numbers, it's a story waiting to be told.*
