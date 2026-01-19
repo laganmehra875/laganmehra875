@@ -45,9 +45,6 @@
 - Python & SQL based analysis
 - Machine Learning mini-projects
 
-🔗 **Portfolio (Coming Soon)**  
-👉 https://YOUR_USERNAME.github.io
-
 ---
 
 ## 📫 Get in Touch
