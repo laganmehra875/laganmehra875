@@ -95,6 +95,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laganmehra875&theme=tokyonight" />
 </p>
 
+---
+<img src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/main/banner.gif" alt="Profile Banner" width="100%" />
 
 ---
 
