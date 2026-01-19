@@ -38,8 +38,7 @@
 - Python & SQL based analysis
 - Machine Learning mini-projects
 
-🔗 **Portfolio (Coming Soon)**  
-👉 https://YOUR_USERNAME.github.io
+
 
 ---
 
@@ -53,7 +52,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,excel,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,excel,vscode" />
 </p>
 
 ---
