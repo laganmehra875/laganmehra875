@@ -52,7 +52,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,excel,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,seaborn,matplotlib,mysql,git,github,linux,excel,vscode" />
 </p>
 
 ---
