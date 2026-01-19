@@ -53,7 +53,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,jupyter notebook,pycharm,vscode" />
 </p>
 
 <p align="left">
