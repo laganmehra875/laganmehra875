@@ -1,49 +1,54 @@
 <h1 align="center">Hi 👋, I'm Lalit Mehra</h1>
-<h3 align="center">Data Science Aspirant | Full Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">Data Science Professional | Full Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Repeat.;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.;&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** currently pursuing a career in  
-**Data Science & Analytics**, with strong interest in **Python, SQL, Machine Learning, and Data Visualization**.
+👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** with **completed training in Data Science & Analytics**,  
+having hands-on experience in **Python, SQL, Machine Learning, and Data Visualization**.
 
 - 🎓 Education: **Bachelor of Commerce (B.Com)**
-- 📊 Currently learning **Data Science & Machine Learning**
-- 💻 Passionate about **data-driven decision making**
-- 🧠 Strong foundation in **statistics, Python & SQL**
-- ⚡ Motto: **Learn. Apply. Improve. 🚀**
+- 📊 Completed **Data Science & Analytics**
+- 💻 Strong in **Python, SQL, Pandas, NumPy**
+- 🧠 Experience with **EDA, Visualization & ML models**
+- ⚡ Motto: **Learn. Apply. Deliver. 🚀**
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Core Skills
 
-- Python for Data Science
-- Pandas, NumPy, Matplotlib, Seaborn
-- SQL & Database Analysis
-- Machine Learning Fundamentals
-- Real-world Data Analysis Projects
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib, Seaborn)
+- SQL Queries & Database Analysis
+- Machine Learning (scikit-learn)
+- Jupyter Notebook based analysis
 
 ---
 
 ## 💼 Projects
 
-📌 Some of my work includes:
-- Exploratory Data Analysis (EDA)
-- Data Visualization Dashboards
-- Python & SQL based analysis
+📌 My work includes:
+- Sales & Business Data Analysis
+- Customer & Market Analysis
+- Dashboard-style Visualizations
+- Python & SQL case studies
 - Machine Learning mini-projects
+
+🔗 **Portfolio (Coming Soon)**  
+👉 https://laganmehra875.github.io
 
 ---
 
 ## 📫 Get in Touch
 
 - 📧 Email: **Laganmehra875@gmail.com**
-- 💼 LinkedIn: www.linkedin.com/in/lalit-mehra-539186281
+- 💼 LinkedIn: https://linkedin.com/in/lalit-mehra-539186281
 - 💻 GitHub: https://github.com/laganmehra875
 
 ---
@@ -54,8 +59,6 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,excel,vscode" />
 </p>
 
----
-
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -63,24 +66,34 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laganmehra875&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎓 Education
 
 - 🎓 **Bachelor of Commerce (B.Com)**
-- 📊 **Currently pursuing Data Science**
+- 📊 **Completed Data Science & Analytics**
 
 ---
 
 ## 🤝 Let’s Connect!
 
-💡 Interested in:
-- Data Analysis Projects
-- Machine Learning
-- Python & SQL based applications
+💡 Open to opportunities in:
+- Data Analyst roles
+- Junior Data Scientist roles
+- Business Analytics
 
-🚀 *Always open to learning and collaboration!*
+🚀 *Ready to contribute with data-driven solutions.*
