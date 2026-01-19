@@ -94,6 +94,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 - 🎓 **Bachelor of Commerce (B.Com)**
 - 📊 **Completed Data Science & Analytics**
+---
+### 🔝 Top Contributed Repo
+![](https:laganmehra875ributor-stats.vercel.app/api?username=laganmehra875&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
