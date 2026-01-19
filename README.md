@@ -31,6 +31,13 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - Jupyter Notebook based analysis
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+
 
 ## 💼 Projects
 
@@ -65,13 +72,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-
----
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 ## 🏆 GitHub Trophies
