@@ -40,9 +40,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - Python & SQL case studies
 - Machine Learning mini-projects
 
-🔗 **Portfolio (Coming Soon)**  
-👉 https://laganmehra875.github.io
-
 ---
 
 ## 📫 Get in Touch
