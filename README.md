@@ -94,6 +94,11 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ---
 
+<img src="https://github.com/laganmehra875/laganmehra875/blob/main/githubgif.gif" alt="Profile Banner" width="100%" />
+
+
+---
+
 ## 🎓 Education
 
 - 🎓 **Bachelor of Commerce (B.Com)**
