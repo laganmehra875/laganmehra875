@@ -89,17 +89,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="Lalit Mehra GitHub Stats"
-  />
-</p>
-
-<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=radical&rank_icon=github&hide_border=true" 
   />
