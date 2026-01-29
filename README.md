@@ -91,7 +91,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laganmehra875&theme=tokyonight" />
 </p>
 
 
