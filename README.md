@@ -89,10 +89,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ---
 
 ## 📊 GitHub Stats
+![Snake animation](https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=laganmehra875&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <p align="center">
