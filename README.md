@@ -90,12 +90,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&layout=compact&theme=tokyonight&hide_border=true)
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&layout=compact&theme=tokyonight&hide_border=true" />
