@@ -94,11 +94,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laganmehra875&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Stats
-
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&layout=compact&theme=tokyonight)
 
 
 
