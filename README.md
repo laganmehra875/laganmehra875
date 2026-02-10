@@ -91,9 +91,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="python.png" class="icon"
        onclick="go('https://www.python.org/')">
 
-  <!-- C Language -->
-  <img src="c.png" class="icon"
-       onclick="go('https://en.cppreference.com/w/c')">
 
   <!-- MySQL -->
   <img src="mysql.png" class="icon"
