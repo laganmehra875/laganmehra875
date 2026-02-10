@@ -142,6 +142,16 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
 </a>
 
+<!-- Jupyter Notebook -->
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+</a>
+
+<!-- JupyterLab -->
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+</a>
+
 
 
 </p>
