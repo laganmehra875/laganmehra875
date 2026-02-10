@@ -183,16 +183,15 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 </a>
 
-<!-- SciPy -->
-<a href="https://scipy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="40" height="40"/>
-</a>
-
 <!-- TensorFlow -->
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 </a>
 
+<!-- SciPy -->
+<a href="https://scipy.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="40" height="40"/>
+</a>
 
 
 </p>
