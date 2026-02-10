@@ -71,11 +71,12 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
     body {
       font-family: Arial;
       padding: 20px;
+      text-align: center;
     }
 
     .icon {
-      width: 60px;
-      margin: 8px;
+      width: 80px;
+      margin: 10px;
       cursor: pointer;
       transition: transform 0.2s;
     }
@@ -87,43 +88,25 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </head>
 <body>
 
-  <!-- Python -->
-  <img src="python.png" class="icon"
-       onclick="go('https://www.python.org/')">
+  <h2>Click Any Language</h2>
 
-
-  <!-- MySQL -->
-  <img src="mysql.png" class="icon"
-       onclick="go('https://www.mysql.com/')">
-
-  <!-- Git -->
-  <img src="git.png" class="icon"
-       onclick="go('https://git-scm.com/')">
-
-  <!-- GitHub -->
-  <img src="github.png" class="icon"
-       onclick="go('https://github.com/')">
-
-  <!-- Linux -->
-  <img src="linux.png" class="icon"
-       onclick="go('https://www.linux.org/')">
-
-  <!-- PyCharm -->
-  <img src="pycharm.png" class="icon"
-       onclick="go('https://www.jetbrains.com/pycharm/')">
-
-  <!-- VS Code -->
-  <img src="vscode.png" class="icon"
-       onclick="go('https://code.visualstudio.com/')">
+  <img src="python.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(1).png')">
+  <img src="mysql.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images.png')">
+  <img src="git.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(2).png')">
+  <img src="github.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(3).png')">
+  <img src="linux.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(2).jpeg')">
+  <img src="pycharm.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images.jpeg')">
+  <img src="vscode.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(1).jpeg')">
 
   <script>
     function go(url) {
-      window.open(url, "_blank"); // new tab me open hoga
+      window.open(url, "_blank");
     }
   </script>
 
 </body>
 </html>
+
 
 ---
 ## 🏆 GitHub Trophies
