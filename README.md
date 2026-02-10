@@ -63,8 +63,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ---
 ## 🔗 Let's Connect!
 
-## 🔗 Let's Connect!
-
 <a href="https://twitter.com/lalitmehra8055">
   <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="40" />
 </a>
@@ -77,10 +75,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
 </a>
 
-
 ---
 
-       
 ---
 ## 🛠️ Languages & Tools      
 
