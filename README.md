@@ -97,13 +97,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
 
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
@@ -120,6 +113,33 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </a>
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</a>
+
+<!-- PyCharm -->
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+</a>
+
+<!-- Anaconda -->
+<a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
+</a>
+
+
 
 </p>
 
