@@ -63,17 +63,20 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ---
 ## 🔗 Let's Connect!
 
+## 🔗 Let's Connect!
+
 <a href="https://twitter.com/lalitmehra8055">
-  <img src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/main/professional-brand-identity-logo-design_659193-41.png" width="40">
+  <img src="twitter.png" width="40">
 </a>
 
 <a href="https://www.linkedin.com/in/lalit-mehra-539186281">
-  <img src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/main/linkedin.png" width="40">
+  <img src="linkedin.png" width="40">
 </a>
 
 <a href="https://www.instagram.com/lalit_mehra_492">
-  <img src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/main/instagram.png" width="40">
+  <img src="instagram.png" width="40">
 </a>
+
 
 
 ---
