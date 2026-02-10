@@ -63,51 +63,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ## 🛠️ Languages & Tools
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Languages Redirect</title>
-  <style>
-    body {
-      font-family: Arial;
-      padding: 20px;
-      text-align: center;
-    }
-
-    .icon {
-      width: 80px;
-      margin: 10px;
-      cursor: pointer;
-      transition: transform 0.2s;
-    }
-
-    .icon:hover {
-      transform: scale(1.1);
-    }
-  </style>
-</head>
-<body>
-
-  <h2>Click Any Language</h2>
-
-  <img src="python.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(1).png')">
-  <img src="mysql.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images.png')">
-  <img src="git.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(2).png')">
-  <img src="github.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(3).png')">
-  <img src="linux.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(2).jpeg')">
-  <img src="pycharm.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images.jpeg')">
-  <img src="vscode.png" class="icon" onclick="go('https://github.com/laganmehra875/laganmehra875/blob/main/images%20(1).jpeg')">
-
-  <script>
-    function go(url) {
-      window.open(url, "_blank");
-    }
-  </script>
-
-</body>
-</html>
-
-
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laganmehra875&theme=radical&no-frame=false&no-bg=true&margin-w=4)
