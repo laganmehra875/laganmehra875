@@ -64,22 +64,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ## 🔗 Let's Connect!
 
 
-<!-- Twitter -->
-<a href="https://twitter.com/lalitmehra8055" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
+<a href="https://www.instagram.com/lalit_mehra_492">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" />
 </a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/lalit-mehra-539186281" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/lalit_mehra_492" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
-</a>
-
-
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lalitmehra8055)
