@@ -63,18 +63,70 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,pycharm,vscode" />
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Languages Redirect</title>
+  <style>
+    body {
+      font-family: Arial;
+      padding: 20px;
+    }
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+    .icon {
+      width: 60px;
+      margin: 8px;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .icon:hover {
+      transform: scale(1.1);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Python -->
+  <img src="python.png" class="icon"
+       onclick="go('https://www.python.org/')">
+
+  <!-- C Language -->
+  <img src="c.png" class="icon"
+       onclick="go('https://en.cppreference.com/w/c')">
+
+  <!-- MySQL -->
+  <img src="mysql.png" class="icon"
+       onclick="go('https://www.mysql.com/')">
+
+  <!-- Git -->
+  <img src="git.png" class="icon"
+       onclick="go('https://git-scm.com/')">
+
+  <!-- GitHub -->
+  <img src="github.png" class="icon"
+       onclick="go('https://github.com/')">
+
+  <!-- Linux -->
+  <img src="linux.png" class="icon"
+       onclick="go('https://www.linux.org/')">
+
+  <!-- PyCharm -->
+  <img src="pycharm.png" class="icon"
+       onclick="go('https://www.jetbrains.com/pycharm/')">
+
+  <!-- VS Code -->
+  <img src="vscode.png" class="icon"
+       onclick="go('https://code.visualstudio.com/')">
+
+  <script>
+    function go(url) {
+      window.open(url, "_blank"); // new tab me open hoga
+    }
+  </script>
+
+</body>
+</html>
 
 ---
 ## 🏆 GitHub Trophies
