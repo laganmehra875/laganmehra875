@@ -193,6 +193,11 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"  width="40" height="40"/>
 </a>
 
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40"/>
+</a>
+
 
 
 </p>
