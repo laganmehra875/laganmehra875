@@ -94,6 +94,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laganmehra875&theme=tokyonight" />
 </p>
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=radical&bg_color=000000&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF)
 
 
 ---
