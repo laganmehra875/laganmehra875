@@ -58,9 +58,31 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - 📧 Email: **Laganmehra875@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/lalit-mehra-539186281
 - 💻 GitHub: https://github.com/laganmehra875
+---
+
+---
+## 🔗 Let's Connect!
+
+<h2>Let's Connect!</h2>
+
+<div class="social">
+  <a href="https://twitter.com/lalitmehra8055" target="_blank">
+    <img src="twitter.png" class="social-icon">
+  </a>
+
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/lalit-mehra-539186281" target="_blank">
+    <img src="linkedin.png" class="social-icon">
+  </a>
+
+  <a href="https://www.instagram.com/lalit_mehra_492" target="_blank">
+    <img src="instagram.png" class="social-icon">
+  </a>
+</div>
+
 
 ---
 
+---
 ## 🛠️ Languages & Tools
 
 ---
