@@ -6,6 +6,7 @@
 </p>
 
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/Screenshot%202026-02-11%20at%2016.17.15.png" alt="Profile Banner" width="100%" />
+--
 
 ## 🚀 About Me
 
