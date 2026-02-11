@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.;&center=true&width=500&height=45">
 </p>
 
-<img src="https://github.com/laganmehra875/laganmehra875/blob/main/ChatGPT%20Image%20Feb%2011%2C%202026%20at%2004_08_56%20PM.png" alt="Profile Banner" width="100%" />
+<img src="https://github.com/laganmehra875/laganmehra875/blob/main/Screenshot%202026-02-11%20at%2016.17.15.png" alt="Profile Banner" width="100%" />
 
 ---
 
