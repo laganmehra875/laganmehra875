@@ -54,8 +54,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ---
 
 ---
-💬 Ask me about:
-Machine Learning, Deep Learning, Data Analysis, Python, SQL, Statistics, and AI Model Deployment.
+## 💬 Ask me about:
+-- Machine Learning, Deep Learning, Data Analysis, Python, SQL, Statistics, and AI Model Deployment.
 ---
 
 ## 📫 Get in Touch
