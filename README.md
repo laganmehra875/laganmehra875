@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.;&center=true&width=500&height=45">
 </p>
 
-✨ A passionate Data Scientist from India 🌍
+<h3 align="center">✨ A passionate Data Scientist from India 🌍</h3>
 
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/Screenshot%202026-02-11%20at%2016.17.15.png" alt="Profile Banner" width="100%" />
 
