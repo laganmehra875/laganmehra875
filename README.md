@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalit Mehra</h1>
+<h1 align="center">Hey there! 👋, I'm Lalit Mehra</h1>
 <h3 align="center">Data Science Professional | Full Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
