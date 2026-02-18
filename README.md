@@ -154,6 +154,13 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 </a>
 
+
+<!-- Tableau Public -->
+<a href="https://public.tableau.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
+</a>
+
+
 <!-- Anaconda -->
 <a href="https://www.anaconda.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
