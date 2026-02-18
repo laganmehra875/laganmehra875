@@ -155,9 +155,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </a>
 
 
-<!-- Tableau Public -->
+<!-- Tableau Public Alternative -->
 <a href="https://public.tableau.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/>
 </a>
 
 
