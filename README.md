@@ -223,7 +223,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <h2 align="center">🤖 Generative AI Tools</h2>
 
 <p align="left">
-
+  
 <!-- OpenAI -->
 <a href="https://openai.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/openai" width="40" height="40"/>
