@@ -95,8 +95,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ---
 
----
-## 🛠️ Languages & Tools      
+---  
+ <h2 align="center">🛠️ Languages & Tools </h2>   
 
 <p align="left">
 
