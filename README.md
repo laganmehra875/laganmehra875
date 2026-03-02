@@ -228,7 +228,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </a>
 
 <!-- ChatGPT -->
-<a href="https://chat.openai.com/" target="_blank">
+<a href="https://chatgpt.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40"/>
 </a>
 
