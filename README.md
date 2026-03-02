@@ -221,15 +221,14 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
 <h2 align="center">🤖 Generative AI Tools</h2>
-
 <!-- OpenAI -->
 <a href="https://openai.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/openai" width="40" height="40"/>
 </a>
 
 <!-- ChatGPT -->
-<a href="assets/openai.svg" target="_blank">
-  <img src="https://github.com/laganmehra875/laganmehra875/tree/main/assets" width="40" height="40"/>
+<a href="https://chat.openai.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40"/>
 </a>
 
 <!-- Google Gemini -->
