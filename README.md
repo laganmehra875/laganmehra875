@@ -222,43 +222,36 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <h2 align="center">🤖 Generative AI Tools</h2>
 
+
 <!-- OpenAI -->
 <a href="https://openai.com/" target="_blank">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-
-<!-- ChatGPT -->
-<a href="https://chat.openai.com/" target="_blank">
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40" height="40"/>
 </a>
 
 <!-- Google Gemini -->
 <a href="https://gemini.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" width="40" height="40"/>
 </a>
 
 <!-- Hugging Face -->
 <a href="https://huggingface.co/" target="_blank">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="40" height="40"/>
 </a>
 
-<!-- Midjourney -->
-<a href="https://www.midjourney.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white"/>
-</a>
-
-<!-- Stable Diffusion -->
+<!-- Stability AI -->
 <a href="https://stability.ai/" target="_blank">
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-5A2D81?style=for-the-badge&logo=stabilityai&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stabilityai.svg" width="40" height="40"/>
 </a>
 
 <!-- GitHub Copilot -->
 <a href="https://github.com/features/copilot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubcopilot.svg" width="40" height="40"/>
 </a>
 
 </p>
 
+
+  
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laganmehra875&theme=radical&no-frame=false&no-bg=true&margin-w=4)
