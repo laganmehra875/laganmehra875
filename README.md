@@ -244,11 +244,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
 
-<!-- ChatGPT -->
-<a href="https://chat.openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40"/>
-</a>
-
 </p>
   
 ---
