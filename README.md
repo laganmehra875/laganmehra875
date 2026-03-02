@@ -224,37 +224,37 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <!-- OpenAI -->
 <a href="https://openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </a>
 
 <!-- ChatGPT -->
 <a href="https://chat.openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
 </a>
 
 <!-- Google Gemini -->
 <a href="https://gemini.google.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlebard" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
 <!-- Hugging Face -->
 <a href="https://huggingface.co/" target="_blank">
-  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
 <!-- Midjourney -->
 <a href="https://www.midjourney.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/midjourney" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white"/>
 </a>
 
 <!-- Stable Diffusion -->
 <a href="https://stability.ai/" target="_blank">
-  <img src="https://cdn.simpleicons.org/stabilityai" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-5A2D81?style=for-the-badge&logo=stabilityai&logoColor=white"/>
 </a>
 
 <!-- GitHub Copilot -->
 <a href="https://github.com/features/copilot" target="_blank">
-  <img src="https://cdn.simpleicons.org/githubcopilot" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </a>
 
 </p>
