@@ -223,24 +223,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <h2 align="center">🤖 Generative AI Tools</h2>
 
 
-
-<!-- OpenAI -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="45" height="45"/>
-
-<!-- Hugging Face -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" width="45" height="45"/>
-
-<!-- Google -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="45" height="45"/>
-
-<!-- GitHub Copilot -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45"/>
-
-<!-- Python (for AI stack) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
-
-</p>
-
   
 ---
 ## 🏆 GitHub Trophies
