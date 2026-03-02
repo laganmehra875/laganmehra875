@@ -229,19 +229,41 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <p align="left">
 
 <!-- OpenAI -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40"/>
+<a href="https://openai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<!-- ChatGPT -->
+<a href="https://chat.openai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<!-- Google Gemini -->
+<a href="https://gemini.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
 
 <!-- Hugging Face -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40" height="40"/>
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
 
-<!-- Google -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+<!-- Midjourney -->
+<a href="https://www.midjourney.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white"/>
+</a>
 
-<!-- Python (for AI work) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<!-- Stable Diffusion -->
+<a href="https://stability.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-5A2D81?style=for-the-badge&logo=stabilityai&logoColor=white"/>
+</a>
 
-<!-- TensorFlow -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<!-- GitHub Copilot -->
+<a href="https://github.com/features/copilot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+</a>
+
+</p>
 
 </p>
 
