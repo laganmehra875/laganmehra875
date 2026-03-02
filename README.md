@@ -222,12 +222,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <h2 align="center">🤖 Generative AI Tools</h2>
 
-<!-- OpenAI -->
-<a href="https://openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai" width="40" height="40"/>
-</a>
-
-
+<p align="left">
+  
 <!-- Hugging Face -->
 <a href="https://huggingface.co/" target="_blank">
   <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>
