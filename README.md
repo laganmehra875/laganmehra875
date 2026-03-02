@@ -223,42 +223,30 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <h2 align="center">🤖 Generative AI Tools</h2>
 
 <p align="left">
-  
-  
+
+## 🤖 Generative AI Tools
+
+<p align="left">
+
 <!-- OpenAI -->
-<a href="https://openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai" width="40" height="40"/>
-</a>
-
-<!-- ChatGPT -->
-<a href="https://chat.openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40"/>
-</a>
-
-<!-- Google Gemini -->
-<a href="https://gemini.google.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlebard" width="40" height="40"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40"/>
 
 <!-- Hugging Face -->
-<a href="https://huggingface.co/" target="_blank">
-  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40" height="40"/>
 
-<!-- Midjourney -->
-<a href="https://www.midjourney.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/midjourney" width="40" height="40"/>
-</a>
+<!-- Google -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 
-<!-- Stable Diffusion -->
-<a href="https://stability.ai/" target="_blank">
-  <img src="https://cdn.simpleicons.org/stabilityai" width="40" height="40"/>
-</a>
+<!-- Python (for AI work) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
-<!-- GitHub Copilot -->
-<a href="https://github.com/features/copilot" target="_blank">
-  <img src="https://cdn.simpleicons.org/githubcopilot" width="40" height="40"/>
-</a>
+<!-- TensorFlow -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+
+</p>
+
+
+
 
 </p>
   
