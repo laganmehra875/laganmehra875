@@ -8,7 +8,7 @@
 <h3 align="center">✨ A passionate Data Scientist from India 🌍</h3>
 
 
-<img src="https://github.com/laganmehra875/laganmehra875/blob/main/.github/workflows/banner.yml" width="100%">
+<img src="image/banner.gif" width="100%">
 
 ---
 
