@@ -2,7 +2,8 @@ name: Change Banner
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"   # every 5 minutes
+  workflow_dispatch:
 
 jobs:
   change-banner:
@@ -14,14 +15,14 @@ jobs:
 
       - name: Change Banner
         run: |
-          files=(images/banner1.gif images/banner2.gif images/banner3.gif images/banner4.gif images/banner5.gif images/banner6.gif)
+          files=(image/banner1.gif image/banner2.gif image/banner3.gif image/banner4.gif image/banner5.gif image/banner6.gif)
           random=${files[$RANDOM % ${#files[@]}]}
-          cp $random images/banner.png
+          cp $random image/banner.gif
 
       - name: Commit Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Change banner"
+          git commit -m "Change banner" || echo "No changes"
           git push
