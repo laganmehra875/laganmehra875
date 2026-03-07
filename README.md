@@ -9,6 +9,7 @@
 
 
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/images/TechprofessionalLinkedIncoverdesign.gif" width="100%">
+
 ---
 
 ## 🚀 About Me
