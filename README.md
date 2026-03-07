@@ -7,9 +7,6 @@
 
 <h3 align="center">✨ A passionate Data Scientist from India 🌍</h3>
 
-<p align="center">
-  <img src="https://github.com/laganmehra875/laganmehra875/blob/main/TechprofessionalLinkedIncoverdesign.gif" width="100%">
-</p>
 
 ---
 
