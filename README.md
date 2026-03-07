@@ -8,6 +8,7 @@
 <h3 align="center">✨ A passionate Data Scientist from India 🌍</h3>
 
 
+![Banner](banner.gif)
 
 
 ---
