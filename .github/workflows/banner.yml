@@ -1,0 +1,27 @@
+name: Change Banner
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  change-banner:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Change Banner
+        run: |
+          files=(images/banner1.png images/banner2.png images/banner3.png images/banner4.png images/banner5.png)
+          random=${files[$RANDOM % ${#files[@]}]}
+          cp $random images/banner.png
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Change banner"
+          git push
