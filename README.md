@@ -350,34 +350,39 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
+<details open>
+  <summary><h2>🚀 Featured Projects</h2></summary>
+  
+  <br>
+  
+  <p align="center">
+    <a href="https://github.com/laganmehra875/Market-Basket-Analysis-with-Python---eBay">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=Market-Basket-Analysis-with-Python---eBay&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+    </a>
+    <a href="https://github.com/laganmehra875/PowerBI-Project---Zomato">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=PowerBI-Project---Zomato&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+    </a>
+  </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
+  <p align="center">
+    <a href="https://github.com/laganmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+    </a>
+    <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+    </a>
+  </p>
 
-<p align="center">
+  <p align="center">
+    <a href="https://github.com/laganmehra875/Spotify-excel-data-analysis-dashboard-project">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=Spotify-excel-data-analysis-dashboard-project&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+    </a>
+    <a href="https://github.com/laganmehra875/Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=Financial-Risk-Analysis-with-Python-Goldman-Sachs-Financial-Analysis-Dataset-&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+    </a>
+  </p>
+</details>
 
-<a href="https://github.com/lalitmehra875/Market-Basket-Analysis-with-Python---eBay">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=Market-Basket-Analysis-with-Python---eBay&theme=tokyonight">
-</a>
-
-<a href="https://github.com/lalitmehra875/PowerBI-Project---Zomato">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=PowerBI-Project---Zomato&theme=tokyonight">
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/lalitmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart&theme=tokyonight">
-</a>
-
-<a href="https://github.com/lalitmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS&theme=tokyonight">
-</a>
-
-</p>
-
-<hr>
 
 <!-- ================= QUOTE ================= -->
 
