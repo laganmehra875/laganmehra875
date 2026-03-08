@@ -351,8 +351,33 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <!-- ================= FEATURED PROJECTS ================= -->
 
 
+<h2 align="center">🚀 Featured Projects</h2>
 
+<p align="center">
 
+<a href="https://github.com/lalitmehra875/Market-Basket-Analysis-with-Python---eBay">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=Market-Basket-Analysis-with-Python---eBay&theme=tokyonight">
+</a>
+
+<a href="https://github.com/lalitmehra875/PowerBI-Project---Zomato">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=PowerBI-Project---Zomato&theme=tokyonight">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/lalitmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart&theme=tokyonight">
+</a>
+
+<a href="https://github.com/lalitmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS&theme=tokyonight">
+</a>
+
+</p>
+
+<hr>
 
 <!-- ================= QUOTE ================= -->
 
