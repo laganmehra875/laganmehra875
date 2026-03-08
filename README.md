@@ -39,6 +39,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - Jupyter Notebook based analysis
 
 ---
+
 <details>
 <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
 
@@ -61,6 +62,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </div>
 
 </details>
+
 ---
 
 
