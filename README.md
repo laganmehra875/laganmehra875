@@ -20,7 +20,9 @@ Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/banner3.gif">
 </p>
 
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
 ## 🚀 About Me
 
