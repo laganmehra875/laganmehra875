@@ -357,6 +357,10 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/githubgif.gif">
 </p>
 
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
 <!-- ================= GITHUB STATS ================= -->
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
