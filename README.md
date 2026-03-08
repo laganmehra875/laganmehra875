@@ -357,6 +357,14 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <!-- ================= FEATURED PROJECTS ================= -->
 
 
+
+
+<!-- ================= CODER ================= -->
+
+<p align="center">
+<img src="https://github.com/laganmehra875/laganmehra875/blob/main/githubgif.gif">
+</p>
+
 <!-- ================= QUOTE ================= -->
 
 <h3 align="center">✍️ Random Dev Quote</h3>
