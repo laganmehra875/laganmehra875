@@ -1,2 +1,0 @@
-pacman-contribution-graph.svg
-pacman-contribution-graph-dark.svg
