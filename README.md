@@ -349,33 +349,25 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
   <!-- Row 1 -->
   <a href="https://github.com/laganmehra875">
-    <img src="https://gh-readme-profile.vercel.app/api?username=laganmehra875&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" height="142px"/>
+    <img src="https://gh-readme-profile.vercel.app/api?username=laganmehra875&theme=tokyonight&bg_color=0b1f1f&title_color=2dd4bf&text_color=8bd5ca&icon_color=2dd4bf&username_color=2dd4bf" height="142px"/>
   </a>
 
   <a href="https://github.com/laganmehra875">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=laganmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=laganmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0b1f1f&title_color=2dd4bf&icon_color=2dd4bf&text_color=8bd5ca" height="142px"/>
   </a>
 
   <br><br>
 
   <!-- Row 2 -->
   <a href="https://github.com/laganmehra875">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=laganmehra875&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=laganmehra875&theme=tokyonight&background=0b1f1f&stroke=2dd4bf&ring=22c55e&fire=22c55e&currStreakNum=8bd5ca&sideNums=8bd5ca&dates=8bd5ca" height="162px"/>
   </a>
 
   <a href="https://github.com/laganmehra875">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="162px"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0b1f1f&title_color=2dd4bf&icon_color=2dd4bf&text_color=8bd5ca" height="162px"/>
   </a>
 
 </details>
-
-<br>
-
-<img src="assets/gradient-line.png" width="100%" height="6px" />
-
-<br><br>
-
-<details open>
   <summary><h2>🚀 Featured Projects</h2></summary>
   
   <br>
