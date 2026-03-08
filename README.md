@@ -297,8 +297,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=laganmehra875&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=laganmehra875&theme=solarized_dark" />
 </p>
 
 ---
