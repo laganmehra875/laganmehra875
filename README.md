@@ -338,16 +338,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
-<div align="center">
-
-<h1 align="center">👨‍💻 Lalit Mehra</h1>
-<h3 align="center">Data Scientist | Coder | Problem Solver</h3>
-
-<img src="https://github.com/lalitmehra875/lalitmehra875/blob/main/githubgif.gif" width="100%" />
-
-<p align="center">
-<img src="assets/gradient-line.png" width="100%" height="6px"/>
-</p>
 
 
 <!-- ================= GITHUB STATS ================= -->
