@@ -399,18 +399,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <h2></h2>
 
-<details>
-  <summary><h2>🔝 Top Contributed Repo</h2></summary>
-
-  <br>
-  
-<p align="center">
-  <a href="https://github.com/laganmehra875">
-    <img src="https://github-contributor-stats.vercel.app/api?username=laganmehra875&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Top Repo" />
-  </a>
-</p>
-
-</details>
 
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
