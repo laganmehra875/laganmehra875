@@ -288,18 +288,15 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laganmehra875&theme=dracula" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=laganmehra875&theme=tokyonight" height="170"/>
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/laganmehra875?tab=repositories">
-    <img src="https://streak-stats.demolab.com?user=laganmehra875&theme=dracula" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
