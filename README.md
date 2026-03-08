@@ -316,52 +316,40 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<div align="center">
 
- 
-  
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
 
   <br>
-  
-<p align="center">
 
-  <!-- Row 1: Main Stats + Alternate Stats -->
-  <a href="https://github.com/laganmehra875" target="_blank" style="margin-right:16px;">
-    <img src="https://gh-readme-profile.vercel.app/api?username=laganmehra875&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Lagan's GitHub stats" height="142px"/>
+  <!-- Row 1 -->
+  <a href="https://github.com/laganmehra875">
+    <img src="https://gh-readme-profile.vercel.app/api?username=laganmehra875&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" height="142px"/>
   </a>
 
-  <a href="https://github.com/laganmehra875" target="_blank">
-    <img alt="Lagan's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=laganmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+  <a href="https://github.com/laganmehra875">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=laganmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
   </a>
 
-</p>
+  <br><br>
 
-<p align="center" style="margin-top:16px;">
-
-  <!-- Row 2: Streak Stats + Top Languages -->
-  <a href="https://github.com/laganmehra875" target="_blank" style="margin-right:16px;">
-      <img title="🔥 Get streak stats" alt="Lagan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=laganmehra875&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+  <!-- Row 2 -->
+  <a href="https://github.com/laganmehra875">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=laganmehra875&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
   </a>
 
-  <a href="https://github.com/laganmehra875" target="_blank">
-    <img 
-      alt="Lagan's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
-      height="162px"
-    />
+  <a href="https://github.com/laganmehra875">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="162px"/>
   </a>
-
-</p>
 
 </details>
+
+</div>
 
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
-
-<div align="center">
-
 
 <details open>
   <summary><h2>🚀 Featured Projects</h2></summary>
