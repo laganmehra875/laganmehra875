@@ -40,28 +40,22 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ---
 
-<details>
-<summary><h2>🟡 Pacman Contribution Graph</h2></summary>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph-dark.svg">
-
-    <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph.svg">
-
-    <img src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph-dark.svg" 
-    alt="Pacman contribution graph">
-  </picture>
+  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
 
   <br>
-  <sub><i>Auto-generated every 12 hours via GitHub Actions</i></sub>
+    
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+  <br/>
+  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
 </div>
-
 </details>
+
+<br>
 
 ---
 
