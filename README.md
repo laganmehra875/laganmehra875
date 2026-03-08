@@ -302,15 +302,28 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ## 📊 GitHub Stats
 
+ <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
+
+  <br>
+    
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+  <br/>
+  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
+</div>
+</details>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=laganmehra875&theme=tokyonight" height="170"/>
+  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&layout=compact&theme=tokyonight" height="170"/>
-</p>
+---
 
 👨‍💻 **lalit's Data Scientist | Coder | Problem Solver**
 
