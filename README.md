@@ -342,11 +342,11 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <div align="center">
 
-[![Lalit's github stats](https://github-readme-mwendwa.vercel.app/api?username=lalitmehra875&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Lalit's github stats](https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&count_private=true&line_height=20&theme=blue-green)](#)
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=lalitmehra875&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmehra875&layout=compact&theme=blue-green)](#)
 
-[![Lalit Mehra's current streak](https://streak-stats.demolab.com/?user=lalitmehra875&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Lalit Mehra's current streak](https://streak-stats.demolab.com/?user=lalitmehra875&theme=blue-green)](#)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
