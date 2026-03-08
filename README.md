@@ -326,9 +326,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
+
+---
 
 
 👨‍💻 **lalit's Data Scientist | Coder | Problem Solver**
