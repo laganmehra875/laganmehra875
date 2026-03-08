@@ -295,6 +295,24 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github-readme-activity-graph.vercel.app" alt="Activity Graph" />
+  </a>
+</p>
+
 
 
 
