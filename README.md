@@ -5,14 +5,17 @@
     <strong>I'm Lalit Mehra</strong>
   </h1>
 
-  <p>
-    📊 Data Scientist | 🤖 Machine Learning Enthusiast | 🐍 Python Developer | 📈 Data Analyst
-  </p>
+<h3 align="center">Data Science Professional | Full Stack Enthusiast | Problem Solver</h3>
 
-  <p>
-    Passionate about exploring data, building ML models, and solving real-world problems with Data Science.
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.;&center=true&width=500&height=45">
+</p>
+
+<h3 align="center">✨ A passionate Data Scientist from India 🌍</h3>
+
+<p align="center">
+  <img src="https://github.com/laganmehra875/laganmehra875/blob/main/banner3.gif">
+</p>
 
 ---
 
