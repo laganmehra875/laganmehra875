@@ -316,13 +316,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<p align="center">
-  <img src="assets/gradient-line.png" width="100%" height="6px" />
-</p>
-
 
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
@@ -361,6 +354,17 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 </details>
 
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
 
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
