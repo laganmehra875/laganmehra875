@@ -82,7 +82,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
-
 ## 💼 Projects
 
 📌 My work includes:
