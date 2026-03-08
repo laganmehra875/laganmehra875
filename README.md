@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <strong>Hey</strong>
-    <img src="assets/images/wave.gif" width="30" alt="wave"> 
+    <img src="assets/wave.gif" width="30" alt="wave"> 
     <strong>I'm Lalit Mehra</strong>
   </h1>
 
