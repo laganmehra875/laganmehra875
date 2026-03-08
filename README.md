@@ -24,6 +24,8 @@ Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<!-- ================= ABOUT ME ================= -->
+
 ## 🚀 About Me
 
 👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** with **completed training in Data Science & Analytics**,  
@@ -78,6 +80,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </p>
 
 
+<!-- ================= ANIMATION ================= -->
+
  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
 
   <br>
@@ -99,6 +103,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<!-- ================= PROJECT ================= -->
+
 ## 💼 Projects
 
 📌 My work includes:
@@ -119,6 +125,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<!-- ================= GET TOUCH ================= -->
+
 ## 📫 Get in Touch
 
 - 📧 Email: **Laganmehra875@gmail.com**
@@ -129,9 +137,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<!-- ================= LETS CONNECT ================= -->
+
 ## 🔗 Let's Connect!
-
-
 
 <a href="https://twitter.com/lalitmehra8055" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
@@ -155,9 +163,12 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<!-- ================= LANGUAGE ================= -->
+
  <h2 align="center">🛠️ Languages & Tools </h2>   
 
 <p align="left">
+
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank">
@@ -331,6 +342,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<!-- ================= TROPHY ================= -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laganmehra875&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -442,6 +455,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<!-- ================= LETS CONNECT ================= -->
+
 ## 🤝 Let’s Connect!
 
 💡 Open to opportunities in:
@@ -450,3 +465,5 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - Business Analytics
 
 🚀 *Ready to contribute with data-driven solutions.*
+
+
