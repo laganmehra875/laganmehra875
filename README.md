@@ -1,18 +1,23 @@
+<div align="center">
+
 <h1>
-  Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
+Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 </h1>
 
 <h2>Data Science Professional | Full Stack Enthusiast | Problem Solver</h2>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45">
 </p>
 
 <h3>✨ A passionate Data Scientist from India 🌍</h3>
 
+</div>
+
 <p>
-  <img src="https://github.com/laganmehra875/laganmehra875/blob/main/banner3.gif">
+<img src="https://github.com/laganmehra875/laganmehra875/blob/main/banner3.gif">
 </p>
+
 ---
 
 ## 🚀 About Me
