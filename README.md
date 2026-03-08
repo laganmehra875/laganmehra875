@@ -340,25 +340,38 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <div align="center">
 
-<div align="center">
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&count_private=true&line_height=20&theme=blue-green" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmehra875&layout=compact&theme=blue-green" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=lalitmehra875&theme=blue-green" />
-
-</div>
-
-<br/>
+<br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<!-- Row 1: Main Stats -->
+<a href="https://github.com/lalitmehra875">
+<img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="142px"/>
+</a>
+
+<a href="https://github.com/lalitmehra875">
+<img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&theme=react" height="142px"/>
+</a>
+
 </p>
+
+<p align="center">
+
+<!-- Row 2: Streak + Languages -->
+<a href="https://github.com/lalitmehra875">
+<img src="https://streak-stats.demolab.com/?user=lalitmehra875&theme=tokyonight" height="162px"/>
+</a>
+
+<a href="https://github.com/lalitmehra875">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmehra875&layout=compact&theme=react" height="162px"/>
+</a>
+
+</p>
+
+</details>
 
 </details>
   <summary><h2>🚀 Featured Projects</h2></summary>
