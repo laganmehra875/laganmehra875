@@ -354,11 +354,11 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
   <!-- Row 1: Main Stats + Alternate Stats -->
   <a href="https://github.com/laganmehra875" target="_blank" style="margin-right:16px;">
-    <img src="https://gh-readme-profile.vercel.app/api?username=laganmehra875&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Maher's GitHub stats" height="142px"/>
+    <img src="https://gh-readme-profile.vercel.app/api?username=laganmehra875&theme=tokyonight&bg_color=0D1117&title_color=00B3FF&text_color=34A89D&icon_color=70A5FD&username_color=bf91f3" alt="Lalit's GitHub stats" height="142px"/>
   </a>
 
   <a href="https://github.com/laganmehra875" target="_blank">
-    <img alt="Maher's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=laganmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+    <img alt="Maher's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=laganmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=00B3FF&icon_color=70A5FD&text_color=34A89D" height="142px"/>
   </a>
 
 </p>
@@ -373,7 +373,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <a href="https://github.com/laganmehra875" target="_blank">
     <img 
       alt="Lalit's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=00B3FF&icon_color=70A5FD&text_color=34A89D" 
       height="162px"
     />
   </a>
