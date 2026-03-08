@@ -13,7 +13,7 @@ jobs:
 
     - name: Change Banner
       run: |
-        banners=(images/banner1.gif images/banner2.gif images/banner3.gif images/banner4.gif images/banner5.gif)
+        banners=(https://github.com/laganmehra875/laganmehra875/blob/main/image/banner.gif https://github.com/laganmehra875/laganmehra875/blob/main/image/banner2.gif https://github.com/laganmehra875/laganmehra875/blob/main/image/banner3.gif https://github.com/laganmehra875/laganmehra875/blob/main/image/banner4.gif https://github.com/laganmehra875/laganmehra875/blob/main/image/banner5.gif)
         random=$((RANDOM % 5))
         cp ${banners[$random]} images/banner.gif
 
