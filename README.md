@@ -10,13 +10,16 @@ Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=✨+A+passionate+Data+Scientist+from+India+🌍&center=true&width=500&height=45">
+<a href="https://github.com/laganmehra875">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+A+Passionate+Data+Scientist+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</a>
 
 </div>
 
 <p align="center">
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/banner3.gif">
 </p>
+
 ---
 
 ## 🚀 About Me
