@@ -340,78 +340,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <div align="center">
 
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/lalitmehra875">
-<img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="142px"/>
-</a>
-
-<a href="https://github.com/lalitmehra875">
-<img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&theme=react" height="142px"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/lalitmehra875">
-<img src="https://streak-stats.demolab.com/?user=lalitmehra875&theme=tokyonight" height="162px"/>
-</a>
-
-<a href="https://github.com/lalitmehra875">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmehra875&layout=compact&theme=react" height="162px"/>
-</a>
-
-</p>
-
-</details>
-
-
-<details open>
-<summary><h2>🚀 Featured Projects</h2></summary>
-
-<br>
-
-<a href="https://github.com/lalitmehra875/Market-Basket-Analysis-with-Python---eBay">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=Market-Basket-Analysis-with-Python---eBay&theme=tokyonight" width="350px"/>
-</a>
-
-<a href="https://github.com/lalitmehra875/PowerBI-Project---Zomato">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=PowerBI-Project---Zomato&theme=tokyonight" width="350px"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/lalitmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart&theme=tokyonight" width="350px"/>
-</a>
-
-<a href="https://github.com/lalitmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS&theme=tokyonight" width="350px"/>
-</a>
-
-</details>
-
-<br>
-
-<img src="assets/gradient-line.png" width="100%" height="6px"/>
-
-<br><br>
-
-<h3>✍️ Random Dev Quote</h3>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-<br><br>
-
-<img src="assets/gradient-line.png" width="100%" height="6px"/>
-
-👨‍💻 **lalit's Data Scientist | Coder | Problem Solver**
+<details open> <summary><h2>📊 GitHub Stats</h2></summary> <br> <p align="center"> <!-- Row 1: Main Stats --> <a href="https://github.com/lalitmehra875"> <img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="142px"/> </a> <a href="https://github.com/lalitmehra875"> <img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&theme=react" height="142px"/> </a> </p> <p align="center"> <!-- Row 2: Streak + Languages --> <a href="https://github.com/lalitmehra875"> <img src="https://streak-stats.demolab.com/?user=lalitmehra875&theme=tokyonight" height="162px"/> </a> <a href="https://github.com/lalitmehra875"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmehra875&layout=compact&theme=react" height="162px"/> </a> </p> </details> </details> <summary><h2>🚀 Featured Projects</h2></summary> <br> <a href="https://github.com/laganmehra875/Market-Basket-Analysis-with-Python---eBay"> <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=Market-Basket-Analysis-with-Python---eBay&theme=tokyonight" width="350px"/> </a> <a href="https://github.com/laganmehra875/PowerBI-Project---Zomato"> <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=PowerBI-Project---Zomato&theme=tokyonight" width="350px"/> </a> <br><br> <a href="https://github.com/laganmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart"> <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart&theme=tokyonight" width="350px"/> </a> <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS"> <img src="https://gh-readme-stats.vercel.app/api/pin/?username=laganmehra875&repo=Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS&theme=tokyonight" width="350px"/> </a> </details> <br> <img src="assets/gradient-line.png" width="100%" height="6px" /> <br><br> <h3>✍️ Random Dev Quote</h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> <br><br> <img src="assets/gradient-line.png" width="100%" height="6px" /> </div> fix this code👨‍💻 **lalit's Data Scientist | Coder | Problem Solver**
 
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/githubgif.gif" alt="Profile Banner" width="100%" />
 
