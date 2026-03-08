@@ -312,7 +312,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
----
 👨‍💻 **lalit's Data Scientist | Coder | Problem Solver**
 
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/githubgif.gif" alt="Profile Banner" width="100%" />
