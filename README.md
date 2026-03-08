@@ -38,9 +38,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - 📧 Email: **Laganmehra875@gmail.com**
 - ⁠⚡ *Fun fact:* **I enjoy solving real-world problems using data 📊**
 
-<p align="center">
-  <img src="assets/gradient-line.png" width="100%" height="6px" />
-</p>
 
 ## 🧠 Core Skills
 
@@ -50,6 +47,31 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - SQL Queries & Database Analysis
 - Machine Learning (scikit-learn)
 - Jupyter Notebook based analysis
+
+<h3>🎯 Vision</h3>
+<p>
+  To become a <strong>Data Scientist</strong>, mastering 
+  <strong>Data Analysis, Machine Learning, SQL, and Business Intelligence</strong> 
+  to build data-driven solutions.
+</p>
+
+<br>
+
+<p align="center">  
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=laganmehra875&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>    
+  
+  <!-- GitHub Followers Badge -->
+  <img src="https://img.shields.io/github/followers/laganmehra875?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/>
+  
+  <!-- GitHub Stars Badge -->
+  <img src="https://img.shields.io/github/stars/laganmehra875?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>    
+  
+  <!-- Public Repositories Counter -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/laganmehra875&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white" alt="Public Repos"/>
+
+</p>
 
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
