@@ -17,7 +17,7 @@ Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 </div>
 
 <p align="center">
-<img src="https://github.com/laganmehra875/laganmehra875/blob/main/banner3.gif">
+<img src="asset/Black and White Illustrative Linkedin Banner.gif">
 </p>
 
 <p align="center">
