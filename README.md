@@ -293,6 +293,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </p>
 
 
+[![Lalit's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com)
+
+
 ---
 👨‍💻 **lalit's Data Scientist | Coder | Problem Solver**
 
