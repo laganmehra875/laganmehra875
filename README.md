@@ -342,30 +342,15 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <div align="center">
 
-<details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
+[![Lalit's github stats](https://github-readme-mwendwa.vercel.app/api?username=lalitmehra875&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
-  <br>
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=lalitmehra875&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff&title_color=00b3ff)](#)
 
-  <!-- Row 1 -->
-  <a href="https://github.com/laganmehra875">
-    <img src="https://gh-readme-profile.vercel.app/api?username=laganmehra875&theme=tokyonight&bg_color=0b1f1f&title_color=2dd4bf&text_color=8bd5ca&icon_color=2dd4bf&username_color=2dd4bf" height="142px"/>
-  </a>
+[![Lalit Mehra's current streak](https://streak-stats.demolab.com/?user=lalitmehra875&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-  <a href="https://github.com/laganmehra875">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=laganmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0b1f1f&title_color=2dd4bf&icon_color=2dd4bf&text_color=8bd5ca" height="142px"/>
-  </a>
-
-  <br><br>
-
-  <!-- Row 2 -->
-  <a href="https://github.com/laganmehra875">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=laganmehra875&theme=tokyonight&background=0b1f1f&stroke=2dd4bf&ring=22c55e&fire=22c55e&currStreakNum=8bd5ca&sideNums=8bd5ca&dates=8bd5ca" height="162px"/>
-  </a>
-
-  <a href="https://github.com/laganmehra875">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0b1f1f&title_color=2dd4bf&icon_color=2dd4bf&text_color=8bd5ca" height="162px"/>
-  </a>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 </details>
   <summary><h2>🚀 Featured Projects</h2></summary>
