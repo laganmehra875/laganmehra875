@@ -38,7 +38,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - 📧 Email: **Laganmehra875@gmail.com**
 - ⁠⚡ *Fun fact:* **I enjoy solving real-world problems using data 📊**
 
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
 ## 🧠 Core Skills
 
@@ -49,7 +51,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - Machine Learning (scikit-learn)
 - Jupyter Notebook based analysis
 
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
 <details>
 <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
@@ -74,7 +78,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 </details>
 
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
 
 ## 💼 Projects
@@ -85,22 +91,28 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - Dashboard-style Visualizations
 - Python & SQL case studies
 - Machine Learning mini-projects
----
+  
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
----
 ## 💬 Ask me about:
  Machine Learning, Deep Learning, Data Analysis, Python, SQL, Statistics, and AI Model Deployment.
----
 
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
 ## 📫 Get in Touch
 
 - 📧 Email: **Laganmehra875@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/lalit-mehra-539186281
 - 💻 GitHub: https://github.com/laganmehra875
----
 
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
 ## 🔗 Let's Connect!
 
 
@@ -123,10 +135,10 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lalit-mehra-539186281)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lalit_mehra_492)
 
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
----
-
----  
  <h2 align="center">🛠️ Languages & Tools </h2>   
 
 <p align="left">
@@ -303,17 +315,24 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 </p>
   
----
+
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laganmehra875&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -338,20 +357,24 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
 </p>
 
----
+
 
 👨‍💻 **lalit's Data Scientist | Coder | Problem Solver**
 
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/githubgif.gif" alt="Profile Banner" width="100%" />
 
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
 ## 🎓 Education
 
 - 🎓 **Bachelor of Commerce (B.Com)**
 - 📊 **Completed Data Science & Analytics**
   
----
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
 ## 🤝 Let’s Connect!
 
