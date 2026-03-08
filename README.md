@@ -297,9 +297,10 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=laganmehra875&theme=solarized_dark" />
+  <a href="https://github.com/laganmehra875?tab=repositories">
+    <img src="https://streak-stats.demolab.com?user=laganmehra875&theme=solarized_dark" />
+  </a>
 </p>
-
 
 ---
 👨‍💻 **lalit's Data Scientist | Coder | Problem Solver**
