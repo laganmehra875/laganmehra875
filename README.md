@@ -352,72 +352,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <!-- ================= GITHUB STATS ================= -->
 
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lalitmehra875&show_icons=true&theme=react" height="150"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=lalitmehra875&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmehra875&layout=compact&theme=react" height="170"/>
-
-</p>
-
-</details>
-
-
-<p align="center">
-<img src="assets/gradient-line.png" width="100%" height="6px"/>
-</p>
 
 
 <!-- ================= FEATURED PROJECTS ================= -->
-
-<details open>
-<summary><h2>🚀 Featured Projects</h2></summary>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/lalitmehra875/Market-Basket-Analysis-with-Python---eBay">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=Market-Basket-Analysis-with-Python---eBay&theme=tokyonight" width="350"/>
-</a>
-
-<a href="https://github.com/lalitmehra875/PowerBI-Project---Zomato">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=PowerBI-Project---Zomato&theme=tokyonight" width="350"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/lalitmehra875/MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=MY-SQL-Project---Logestics-optimization-for-Delivery-Route---Flipkart&theme=tokyonight" width="350"/>
-</a>
-
-<a href="https://github.com/lalitmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitmehra875&repo=Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS&theme=tokyonight" width="350"/>
-</a>
-
-</p>
-
-</details>
-
-
-<p align="center">
-<img src="assets/gradient-line.png" width="100%" height="6px"/>
-</p>
 
 
 <!-- ================= QUOTE ================= -->
@@ -432,6 +369,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <p align="center">
 <img src="assets/gradient-line.png" width="100%" height="6px"/>
 </p>
+
+<!-- ================= EDUCATION ================= -->
 
 ## 🎓 Education
 
