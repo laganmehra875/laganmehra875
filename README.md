@@ -338,7 +338,11 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+<!-- ================= CODER ================= -->
 
+<p align="center">
+<img src="https://github.com/laganmehra875/laganmehra875/blob/main/githubgif.gif">
+</p>
 
 <!-- ================= GITHUB STATS ================= -->
 
@@ -349,11 +353,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
 
-<!-- ================= CODER ================= -->
-
-<p align="center">
-<img src="https://github.com/laganmehra875/laganmehra875/blob/main/githubgif.gif">
-</p>
 
 <!-- ================= QUOTE ================= -->
 
