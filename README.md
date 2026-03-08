@@ -8,8 +8,9 @@
 <h3 align="center">✨ A passionate Data Scientist from India 🌍</h3>
 
 
-<img src="https://github.com/laganmehra875/laganmehra875/blob/main/banner3.gif" alt="Profile Banner" width="100%" />
-
+<p align="center">
+  <img src="images/banner.gif">
+</p>
 
 ---
 
