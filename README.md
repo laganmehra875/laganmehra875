@@ -8,16 +8,15 @@ Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45">
 
-<p>
-✨ A passionate Data Scientist from India 🌍
-</p>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=✨+A+passionate+Data+Scientist+from+India+🌍&center=true&width=500&height=45">
 
 </div>
 
 <p align="center">
 <img src="https://github.com/laganmehra875/laganmehra875/blob/main/banner3.gif">
 </p>
-
 ---
 
 ## 🚀 About Me
