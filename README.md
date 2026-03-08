@@ -291,7 +291,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laganmehra875&theme=nord_bright" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laganmehra875&theme=solarized_dark" />
   </a>
 </p>
 
