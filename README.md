@@ -303,9 +303,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </p>
 
 </p>
-
-
-</p>
   
 
 <p align="center">
