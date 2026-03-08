@@ -318,7 +318,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
  
-<div align="center">
   
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
