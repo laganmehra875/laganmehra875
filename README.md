@@ -6,12 +6,13 @@ Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 
 <h2>Data Science Professional | Full Stack Enthusiast | Problem Solver</h2>
 
-<p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45">
 </p>
 
-<h3>✨ A passionate Data Scientist from India 🌍</h3>
-
+<p align="center">
+✨ A passionate Data Scientist from India 🌍
+</p>
 </div>
 
 <p>
