@@ -1,16 +1,16 @@
 <div align="center">
   <h1>
     <strong>Hey</strong>
-    <img src="assets/wave.gif" width="30" alt="wave"> 
+    <img src="assets/wave.gif" width="30"> 
     <strong>I'm Lalit Mehra</strong>
   </h1>
 
   <p>
-    📊 Data Science Enthusiast | 🤖 Machine Learning Learner | 🐍 Python Developer | 📈 Data Analyst
+    📊 Data Scientist | 🤖 Machine Learning Enthusiast | 🐍 Python Developer | 📈 Data Analyst
   </p>
 
   <p>
-    Turning data into insights and building intelligent solutions with data.
+    Passionate about exploring data, building ML models, and solving real-world problems with Data Science.
   </p>
 </div>
 
