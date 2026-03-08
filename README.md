@@ -17,6 +17,10 @@ Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 </div>
 
 <p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
+<p align="center">
 <img src="assets/Black and White Illustrative Linkedin Banner.gif">
 </p>
 
