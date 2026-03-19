@@ -204,8 +204,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
 <!-- Postgres -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </a>
 
 
