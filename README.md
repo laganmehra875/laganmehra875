@@ -4,6 +4,10 @@
 Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 </h1>
 
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="3px" />
+</p>
+
 <h2>Data Science Professional | Full Stack Enthusiast | Problem Solver</h2>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45">
