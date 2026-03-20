@@ -145,11 +145,14 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ## 🔗 Let's Connect!
 
-<a href="https://twitter.com/lalitmehra8055" target="_blank">
+<a href="https://twitter.com/lalitmehra8055" target="blank">
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
-    width="40" 
-    height="40"
+    align="center" 
+    src="https://github.com/laganmehra875/laganmehra875/blob/main/twitter-color-svgrepo-com.svg" 
+    alt="Twitter" 
+    height="40" 
+    width="40"
+    style="filter: invert(41%) sepia(98%) saturate(747%) hue-rotate(176deg) brightness(95%) contrast(92%);"
   />
 </a>
 
