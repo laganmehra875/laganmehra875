@@ -145,27 +145,12 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ## 🔗 Let's Connect!
 
-<a href="https://twitter.com/lalitmehra8055" target="blank">
+<a href="https://twitter.com/lalitmehra8055" target="_blank">
   <img 
-    align="center" 
-    src="https://github.com/laganmehra875/laganmehra875/blob/main/twitter-color-svgrepo-com.svg" 
-    alt="Twitter" 
-    <path d="M24 4.557a9.93 9.93 0 0 1-2.828.775 
-    4.932 4.932 0 0 0 2.165-2.724 
-    9.864 9.864 0 0 1-3.127 1.195 
-    4.916 4.916 0 0 0-8.38 4.482 
-    A13.94 13.94 0 0 1 1.671 3.149 
-    a4.916 4.916 0 0 0 1.523 6.574 
-    4.903 4.903 0 0 1-2.229-.616v.061 
-    a4.917 4.917 0 0 0 3.946 4.817 
-    4.996 4.996 0 0 1-2.224.084 
-    4.918 4.918 0 0 0 4.59 3.417 
-    A9.867 9.867 0 0 1 0 19.54 
-    a13.94 13.94 0 0 0 7.548 2.212 
-    c9.058 0 14.01-7.514 14.01-14.01 
-    0-.213-.005-.425-.014-.636 
-    A10.025 10.025 0 0 0 24 4.557z"/>
-  </svg>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
+    width="40" 
+    height="40"
+  />
 </a>
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/lalit-mehra-539186281" target="_blank">
