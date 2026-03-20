@@ -197,15 +197,22 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
 
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-
 
 <!-- Postgres -->
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</a>
+
+
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </a>
 
 
