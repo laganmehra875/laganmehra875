@@ -5,7 +5,7 @@ Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 </h1>
 
 <p align="center">
-  <img src="assets/gradient-line.png" width="100%" height="3px" />
+  <img src="assets/gradient-line.png" width="100%" height="1px" />
 </p>
 
 <h2>Data Science Professional | Full Stack Enthusiast | Problem Solver</h2>
