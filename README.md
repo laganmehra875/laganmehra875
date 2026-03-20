@@ -159,18 +159,15 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </a>
 
 <a href="https://instagram.com/lalit_mehra_492" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" />
+  <img 
+    src="https://github.com/laganmehra875/laganmehra875/blob/main/instagram-1-svgrepo-com.svg" 
+     width="40" 
+    height="40"
+    style="filter: invert(49%) sepia(93%) saturate(747%) hue-rotate(176deg);"
+    />
 </a>
 
 
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lalitmehra8055)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lalit-mehra-539186281)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lalit_mehra_492)
-
-<p align="center">
-  <img src="assets/gradient-line.png" width="100%" height="6px" />
-</p>
 
 <!-- ================= LANGUAGE ================= -->
 
