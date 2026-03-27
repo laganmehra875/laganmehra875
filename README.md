@@ -1,29 +1,30 @@
 <div align="center">
 
-<!-- 🔽 Heading -->
 <h1>
   Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 </h1>
 
-<!-- 🔽 Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Lalit%20Mehra&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<!-- 🔽 Subtitle -->
 <h2>Data Science Professional | Full Stack Enthusiast | Problem Solver</h2>
 
-<!-- 🔽 Typing + Passionate (no gap) -->
+<!-- 🔽 FORCE PERFECT STACK -->
 <div style="line-height:0;">
+
   <img 
     src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=35"
     style="display:block; margin:0 auto;"
   />
-  
+
+  <br>
+
   <a href="https://github.com/laganmehra875">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+A+Passionate+Data+Scientist+from+India+%F0%9F%87%AE%F0%9F%87%B3"
       style="display:block; margin:0 auto;"
     />
   </a>
+
 </div>
 
 </div>
