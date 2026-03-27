@@ -206,10 +206,6 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
-<!-- ================= LANGUAGE ================= -->
-
- <h2 align="center">🛠️ Languages & Tools</h2>
-
 
 <!-- ================= LANGUAGE ================= -->
 
