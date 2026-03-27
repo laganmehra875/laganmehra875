@@ -1,22 +1,26 @@
 <div align="center">
 
 <h1>
-Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
+  Hey <img src="assets/wave.gif" width="30"> I'm Lalit Mehra
 </h1>
 
 <p align="center">
-  <img src="assets/gradient-line.png" width="100%" height="0.6px" />
+  <img src="assets/gradient-line.png" width="100%" height="1px" />
 </p>
 
 <h2>Data Science Professional | Full Stack Enthusiast | Problem Solver</h2>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45">
 
-<br>
+<br><br>
 
 <a href="https://github.com/laganmehra875">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+A+Passionate+Data+Scientist+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+A+Passionate+Data+Scientist+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lalit%20Mehra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&descAlignY=55&descAlign=62"/>
 
 </div>
 
