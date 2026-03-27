@@ -152,9 +152,19 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 ## 📫 Get in Touch
 
+
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/lalit-mehra-539186281" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
+<!-- Github -->
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+
 - 📧 Email: **Laganmehra875@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/lalit-mehra-539186281
-- 💻 GitHub: https://github.com/laganmehra875
 
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
