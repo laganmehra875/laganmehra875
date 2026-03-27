@@ -160,7 +160,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <!-- Github -->
 <a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://github.com/laganmehra875/laganmehra875/blob/main/github-svgrepo-com.svg" width="40" height="40"/>
 </a>
 
 <a href="mailto:Laganmehra875@gmail.com">
@@ -182,7 +182,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <a href="https://twitter.com/lalitmehra8055" target="_blank">
   <img 
-    src="https://github.com/laganmehra875/laganmehra875/blob/main/twitter-color-svgrepo-com.svg" 
+    src="https://github.com/laganmehra875/laganmehra875/blob/main/github-svgrepo-com.svg" 
     width="40" 
     height="40"
     style="filter: invert(49%) sepia(93%) saturate(747%) hue-rotate(176deg);"
@@ -257,7 +257,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 <!-- Github -->
 <a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://github.com/laganmehra875/laganmehra875/blob/main/github-svgrepo-com.svg" width="40" height="40"/>
 </a>
 
 <!-- Vs code -->
