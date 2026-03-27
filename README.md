@@ -16,11 +16,17 @@
 <!-- ❌ REMOVE EXTRA <br><br> -->
 
 <!-- 🔽 Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=35">
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=35"
+  style="display:block; margin:0 auto;"
+/>
 
 <!-- 🔽 Passionate text -->
-<a href="https://github.com/laganmehra875">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+A+Passionate+Data+Scientist+from+India+%F0%9F%87%AE%F0%9F%87%B3" />
+<a href="https://github.com/laganmehra875" style="display:block; margin:0;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+A+Passionate+Data+Scientist+from+India+%F0%9F%87%AE%F0%9F%87%B3"
+    style="display:block; margin:0 auto;"
+  />
 </a>
 
 </div>
