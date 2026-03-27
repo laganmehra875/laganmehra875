@@ -64,6 +64,11 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - ⁠⚡ *Fun fact:* **I enjoy solving real-world problems using data 📊**
 
 
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
+
 ## 🧠 Core Skills
 
 - Data Cleaning & Preprocessing
