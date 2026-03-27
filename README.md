@@ -163,8 +163,14 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </a>
 
-
-- 📧 Email: **Laganmehra875@gmail.com**
+<a href="mailto:Laganmehra875@gmail.com">
+  <img 
+    src="https://github.com/laganmehra875/laganmehra875/blob/main/google-gmail-svgrepo-com.svg" 
+    width="40" 
+    height="40"
+    style="filter: invert(49%) sepia(93%) saturate(747%) hue-rotate(176deg);"
+  />
+</a>
 
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
