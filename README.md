@@ -20,7 +20,7 @@
 
   <a href="https://github.com/laganmehra875">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+A+Passionate+Data+Scientist+from+India+%F0%9F%87%AE%F0%9F%87%B3"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=%E2%9C%A8+A+Passionate+Data+Scientist+from+India+%F0%9F%87%AE%F0%9F%87%B3"
       style="display:block; margin:0 auto;"
     />
   </a>
