@@ -154,7 +154,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/lalit-mehra-539186281" target="_blank">
+<a href="https://www.linkedin.com/in/lalit-mehra-539186281/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 
@@ -183,7 +183,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   />
 </a>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/lalit-mehra-539186281" target="_blank">
+<a href="https://www.linkedin.com/in/lalit-mehra-539186281/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 
