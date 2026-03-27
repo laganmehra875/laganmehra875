@@ -12,7 +12,7 @@
 <div style="line-height:0;">
 
   <img 
-  src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45&color=00FFAA"
+  src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45&color=00FFAA&size=24"
   style="display:block; margin:0 auto;"
 />
 
