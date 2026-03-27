@@ -17,6 +17,11 @@
 
 <br><br>
 
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
+
 <!-- 👇 Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45">
 
