@@ -6,7 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Lalit%20Mehra&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=42"/>
 
-<h2>Data Science Professional | Full Stack Enthusiast | Problem Solver</h2>
 
 <!-- 🔽 FORCE PERFECT STACK -->
 <div style="line-height:0;">
@@ -15,6 +14,8 @@
   src="https://readme-typing-svg.herokuapp.com/?lines=Code.;Analyze.;Learn.;Deliver.&center=true&width=500&height=45&color=00FFAA&size=24"
   style="display:block; margin:0 auto;"
 />
+
+<h2>Data Science Professional | Full Stack Enthusiast | Problem Solver</h2>
 
   <br>
 
