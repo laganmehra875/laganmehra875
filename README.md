@@ -462,6 +462,18 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 </details>
 
+
+<!-- ================= Contribution Activity Graph ================= -->
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+[![Lalit Mehra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laganmehra875&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
 <!-- ================= FEATURED PROJECTS ================= -->
 
 <details open>
