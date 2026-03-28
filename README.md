@@ -4,10 +4,8 @@
   Hey <img src="assets/wave.gif" width="30"> I'm 
 </h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lalit%20Mehra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Enthusiast%20%7C%20Data%20Science Professional%20%7C%20Deep%20Learning%20Explorer&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lalit%20Mehra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Enthusiast%20%7C%20Data%20Science%20Professional%20%7C%20Deep%20Learning%20Explorer&descAlignY=55&descSize=16" />
 
-
-<h2>  | Full Stack Enthusiast | Problem Solver</h2>
 
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
