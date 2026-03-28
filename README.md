@@ -555,3 +555,7 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - Business Analytics
 
 🚀 *Ready to contribute with data-driven solutions.*
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
