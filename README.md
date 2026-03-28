@@ -243,93 +243,65 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <a href="https://www.tensorflow.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="35"/>
 </a>
-<a href="https://keras.io" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="35"/>
-</a>
+<a href="https://<h2 align="center">🛠️ Tech Stack</h2>
+
+<!-- ================= LANGUAGES ================= -->
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
 </p>
 
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Web / Languages
-<p>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
-</a>
+<!-- ================= DATABASE ================= -->
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
 </p>
 
-</td>
-
-<td align="center" width="33%">
-
-### 🗄️ Databases
-<p>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/>
-</a>
+<!-- ================= DATA SCIENCE ================= -->
+<h3 align="center">📊 Data Science</h3>
+<p align="center">
+<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a>
+<a href="https://scipy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40"/></a>
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🛠️ Tools
-<p>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35"/>
-</a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="35"/>
-</a>
+<!-- ================= MACHINE LEARNING ================= -->
+<h3 align="center">🤖 Machine Learning</h3>
+<p align="center">
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
+<a href="https://keras.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40"/></a>
 </p>
 
-</td>
-
-<td align="center">
-
-### 📊 BI Tools
-<p>
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="35"/>
-</a>
-<a href="https://public.tableau.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/tableau-software.png" width="35"/>
-</a>
+<!-- ================= TOOLS ================= -->
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://github.com/laganmehra875/laganmehra875/blob/main/github-svgrepo-com.svg" width="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/></a>
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/></a>
 </p>
 
-</td>
-
-<td align="center">
-
-### 💻 OS
-<p>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/>
-</a>
+<!-- ================= BI TOOLS ================= -->
+<h3 align="center">📈 BI Tools</h3>
+<p align="center">
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/></a>
+<a href="https://public.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/></a>
 </p>
 
-</td>
-</tr>
-</table>
-
+<!-- ================= OS ================= -->
+<h3 align="center">💻 Operating System</h3>
+<p align="center">
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+</p>
 
 
 <!-- ================= Generative AI Tools  ================= -->
