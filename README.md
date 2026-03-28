@@ -76,27 +76,41 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - Machine Learning (scikit-learn)
 - Jupyter Notebook based analysis
 
-<h3 align="center">🎯 Vision</h3>
-
-<p align="center">
-  Becoming a <strong>Data Scientist</strong> focused on 
-  Machine Learning, Data Analysis & Business Intelligence.
+<h3>🎯 Vision</h3>
+<p>
+  To become a <strong>Data Scientist</strong>, mastering 
+  <strong>Data Analysis, Machine Learning, SQL, and Business Intelligence</strong> 
+  to build data-driven solutions.
 </p>
 
 <br>
 
+<p align="center">  
+
+  <!-- Profile Views Counter -->
+  <a href="https://github.com/laganmehra875" target="_blank" title="View GitHub Profile">
+    <img src="https://komarev.com/ghpvc/?username=laganmehra875&label=Profile%20Views&color=bf91f3&style=flat" />
+  </a>    
+  
+  <!-- GitHub Followers Badge -->
+  <a href="https://github.com/laganmehra875?tab=followers" target="_blank" title="View Followers">
+    <img src="https://img.shields.io/github/followers/laganmehra875?label=Followers&style=flat&color=70a5fd&labelColor=0d1117&logo=github&logoColor=white"/>
+  </a>
+  
+  <!-- GitHub Stars Badge -->
+  <a href="https://github.com/laganmehra875?tab=repositories" target="_blank" title="View Repositories">
+    <img src="https://img.shields.io/github/stars/laganmehra875?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white"/>
+  </a>    
+  
+  <!-- Public Repositories Counter -->
+  <a href="https://github.com/laganmehra875?tab=repositories" target="_blank" title="View Public Repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/laganmehra875&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117&logo=git&logoColor=white"/>
+  </a>
+
+</p>
+
 <p align="center">
-  <a href="https://github.com/laganmehra875" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=laganmehra875&color=8b5cf6&style=flat" />
-  </a>
-  
-  <a href="https://github.com/laganmehra875?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/laganmehra875?style=flat&color=3b82f6&label=Followers" />
-  </a>
-  
-  <a href="https://github.com/laganmehra875?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/laganmehra875&query=$.public_repos&label=Repos&style=flat&color=10b981" />
-  </a>
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
 
