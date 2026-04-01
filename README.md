@@ -369,6 +369,12 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 </a>
 
 
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+</a>
+
+
 </p>
 
 
