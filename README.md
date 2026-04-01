@@ -47,13 +47,9 @@
 
 <!-- ================= ABOUT ME ================= -->
 
-<table>
-<tr>
-<td width="60%">
-
 <img align="right" 
      src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
-     width="300"
+     width="360"
      style="border-radius:12px; margin-left:20px;">
 
 ## 🚀 About Me
