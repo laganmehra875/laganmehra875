@@ -54,16 +54,17 @@
 
 ## 🚀 About Me
 
-👋 Hey! I'm Lalit Mehra, a B.Com graduate with completed training in Data Science & Analytics, having hands-on experience in Python, SQL, Machine Learning, and Data Visualization.
+👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** with **completed training in Data Science & Analytics**,  
+having hands-on experience in **Python, SQL, Machine Learning, and Data Visualization**.
 
-- 🎓 Education: Bachelor of Commerce (B.Com)
-- 📊 Completed Data Science & Analytics
-- 💻 Strong in Python, SQL, Pandas, NumPy
-- 📈 Experience with EDA, Visualization & ML models
-- 🧠 Pronouns: He/Him
-- ⚡ Motto: Learn. Apply. Deliver.
-- 📧 Email: Laganmehra875@gmail.com
-- 🎯 Fun fact: I enjoy solving real-world problems using data
+- 🎓 Education: **Bachelor of Commerce (B.Com)**
+- 📊 Completed **Data Science & Analytics**
+- 💻 Strong in **Python, SQL, Pandas, NumPy**
+- 🧠 Experience with **EDA, Visualization & ML models**
+- 😄 *Pronouns:* **He/Him**
+- ⚡ Motto: **Learn. Apply. Deliver. 🚀**
+- 📧 Email: **Laganmehra875@gmail.com**
+- ⁠⚡ *Fun fact:* **I enjoy solving real-world problems using data 📊**
 
 
 <p align="center">
