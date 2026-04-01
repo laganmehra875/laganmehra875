@@ -47,7 +47,7 @@
 
 <!-- ================= ABOUT ME ================= -->
 
- <img align="right" 
+<img align="right" 
      alt="Coding" 
      src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
      width="380"
@@ -55,8 +55,7 @@
 
 ## 🚀 About Me
 
-👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** with **completed training in Data Science & Analytics**,  
-having hands-on experience in **Python, SQL, Machine Learning, and Data Visualization**.
+👋 Hey! I'm Lalit Mehra, a B.Com graduate with completed training in Data Science & Analytics, having hands-on experience in Python, SQL, Machine Learning, and Data Visualization.
 
 - 🎓 Education: **Bachelor of Commerce (B.Com)**
 - 📊 Completed **Data Science & Analytics**
