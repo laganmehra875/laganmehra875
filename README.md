@@ -51,6 +51,11 @@
 <tr>
 <td width="60%">
 
+<img align="right" 
+     src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
+     width="300"
+     style="border-radius:12px; margin-left:20px;">
+
 ## 🚀 About Me
 
 👋 Hey! I'm Lalit Mehra, a B.Com graduate with completed training in Data Science & Analytics, having hands-on experience in Python, SQL, Machine Learning, and Data Visualization.
@@ -63,18 +68,6 @@
 - ⚡ Motto: Learn. Apply. Deliver.
 - 📧 Email: Laganmehra875@gmail.com
 - 🎯 Fun fact: I enjoy solving real-world problems using data
-
-</td>
-
-<td width="40%" align="right">
-
-<img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
-     width="300"
-     style="border-radius:12px;" />
-
-</td>
-</tr>
-</table>
 
 
 <p align="center">
