@@ -62,6 +62,9 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - ⁠⚡ *Fun fact:* **I enjoy solving real-world problems using data 📊**
 
 
+<img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
+
+
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
