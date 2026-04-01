@@ -47,10 +47,10 @@
 
 <!-- ================= ABOUT ME ================= -->
 
-<img align="right" 
-     src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
-     width="400"
-     style="border-radius:12px; margin-left:25px; margin-top:50px;">
+ <img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
+
+ <p>
+<br><br>
 
 ## 🚀 About Me
 
@@ -67,7 +67,7 @@
 - 📧 Email: Laganmehra875@gmail.com
 - 🎯 Fun fact: I enjoy solving real-world problems using data
 
-<br><br><br>
+<br><br>
 
 
 <p align="center">
