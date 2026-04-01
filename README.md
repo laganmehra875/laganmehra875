@@ -47,24 +47,34 @@
 
 <!-- ================= ABOUT ME ================= -->
 
+<table>
+<tr>
+<td width="60%">
+
 ## 🚀 About Me
 
-👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** with **completed training in Data Science & Analytics**,  
-having hands-on experience in **Python, SQL, Machine Learning, and Data Visualization**.
+👋 Hey! I'm Lalit Mehra, a B.Com graduate with completed training in Data Science & Analytics, having hands-on experience in Python, SQL, Machine Learning, and Data Visualization.
 
-- 🎓 Education: **Bachelor of Commerce (B.Com)**
-- 📊 Completed **Data Science & Analytics**
-- 💻 Strong in **Python, SQL, Pandas, NumPy**
-- 🧠 Experience with **EDA, Visualization & ML models**
-- 😄 *Pronouns:* **He/Him**
-- ⚡ Motto: **Learn. Apply. Deliver. 🚀**
-- 📧 Email: **Laganmehra875@gmail.com**
-- ⁠⚡ *Fun fact:* **I enjoy solving real-world problems using data 📊**
+- 🎓 Education: Bachelor of Commerce (B.Com)
+- 📊 Completed Data Science & Analytics
+- 💻 Strong in Python, SQL, Pandas, NumPy
+- 📈 Experience with EDA, Visualization & ML models
+- 🧠 Pronouns: He/Him
+- ⚡ Motto: Learn. Apply. Deliver.
+- 📧 Email: Laganmehra875@gmail.com
+- 🎯 Fun fact: I enjoy solving real-world problems using data
 
-<img align="right" alt="Coding"
-     src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
      width="300"
-     style="border-radius:10px;">
+     style="border-radius:12px;" />
+
+</td>
+</tr>
+</table>
 
 
 <p align="center">
