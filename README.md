@@ -60,8 +60,11 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 - ⚡ Motto: **Learn. Apply. Deliver. 🚀**
 - 📧 Email: **Laganmehra875@gmail.com**
 - ⁠⚡ *Fun fact:* **I enjoy solving real-world problems using data 📊**
-- 
-<img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
+
+<img align="right" alt="Coding"
+     src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
+     width="300"
+     style="border-radius:10px;">
 
 
 <p align="center">
