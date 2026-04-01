@@ -183,6 +183,11 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   />
 </a>
 
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+</a>
+
+
 <p align="center">
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
@@ -272,6 +277,13 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 <a href="https://github.com/" target="_blank">
   <img src="https://github.com/laganmehra875/laganmehra875/blob/main/github-svgrepo-com.svg" width="40" height="40"/>
 </a>
+
+
+<!-- Kaggle -->
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+</a>
+
 
 <!-- Vs code -->
 <a href="https://code.visualstudio.com/" target="_blank">
