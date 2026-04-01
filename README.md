@@ -183,8 +183,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
   />
 </a>
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+<a href="https://www.kaggle.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="80"/>
 </a>
 
 
@@ -280,8 +280,8 @@ having hands-on experience in **Python, SQL, Machine Learning, and Data Visualiz
 
 
 <!-- Kaggle -->
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+<a href="https://www.kaggle.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="80"/>
 </a>
 
 
