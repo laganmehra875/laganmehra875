@@ -49,22 +49,25 @@
 
 <img align="right" 
      src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif"
-     width="360"
-     style="border-radius:12px; margin-left:20px;">
+     width="400"
+     style="border-radius:12px; margin-left:25px; margin-bottom:10px;">
 
 ## 🚀 About Me
 
-👋 Hey! I’m **Lalit Mehra**, a **B.Com graduate** with **completed training in Data Science & Analytics**,  
-having hands-on experience in **Python, SQL, Machine Learning, and Data Visualization**.
+👋 Hey! I'm Lalit Mehra, a B.Com graduate with completed training in Data Science & Analytics, having hands-on experience in Python, SQL, Machine Learning, and Data Visualization.
 
-- 🎓 Education: **Bachelor of Commerce (B.Com)**
-- 📊 Completed **Data Science & Analytics**
-- 💻 Strong in **Python, SQL, Pandas, NumPy**
-- 🧠 Experience with **EDA, Visualization & ML models**
-- 😄 *Pronouns:* **He/Him**
-- ⚡ Motto: **Learn. Apply. Deliver. 🚀**
-- 📧 Email: **Laganmehra875@gmail.com**
-- ⁠⚡ *Fun fact:* **I enjoy solving real-world problems using data 📊**
+<br>
+
+- 🎓 Education: Bachelor of Commerce (B.Com)
+- 📊 Completed Data Science & Analytics
+- 💻 Strong in Python, SQL, Pandas, NumPy
+- 📈 Experience with EDA, Visualization & ML models
+- 🧠 Pronouns: He/Him
+- ⚡ Motto: Learn. Apply. Deliver.
+- 📧 Email: Laganmehra875@gmail.com
+- 🎯 Fun fact: I enjoy solving real-world problems using data
+
+<br><br><br>
 
 
 <p align="center">
