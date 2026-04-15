@@ -231,6 +231,7 @@
 
 <!-- ================= LANGUAGE ================= -->
 
+<p align="center">
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
 <p align="left">
