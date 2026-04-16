@@ -45,6 +45,13 @@
   <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
+### Portfolio Link
+ Available at your primary URL https:
+ ```bash
+    https://laganmehra875.github.io/laganmehra875/
+   ```
+
+
 <!-- ================= ABOUT ME ================= -->
 
 <img align="right" 
