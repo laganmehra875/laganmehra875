@@ -472,7 +472,8 @@ document.addEventListener('DOMContentLoaded', () => {
             { name: "BERT", icon: "bx-network-chart" },
             { name: "Perplexity", icon: "bx-search-alt" },
             { name: "Llama 3", icon: "bx-infinite" },
-            { name: "Anthropic", icon: "bx-shape-polygon" }
+            { name: "Anthropic", icon: "bx-shape-polygon" },
+            { name: "YouTube Research", icon: "bx-git-merge" }
         ];
 
         const orbiters = [];
