@@ -177,7 +177,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/lalit-mehra-539186281/" target="_blank">
+<a href="https://www.linkedin.com/in/lalit-mehra-306191422/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 
@@ -217,7 +217,7 @@
   />
 </a>
 
-<a href="https://www.linkedin.com/in/lalit-mehra-539186281/" target="_blank">
+<a href="https://www.linkedin.com/in/lalit-mehra-306191422/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 
