@@ -126,30 +126,6 @@
 </p>
 
 
-<!-- ================= ANIMATION ================= -->
-<h2 align="center">🟡 Pacman Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph.svg">
-    <img
-      src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph.svg"
-      alt="Pacman Contribution Graph">
-  </picture>
-</p>
-
-<p align="center">
-  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
-</p>
-
-<p align="center">
-  <img src="assets/gradient-line.png" width="100%" alt="Gradient Line">
-</p>
 <!-- ================= PROJECT ================= -->
 
 ## 💼 Projects
