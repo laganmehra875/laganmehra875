@@ -127,38 +127,19 @@
 
 
 <!-- ================= ANIMATION ================= -->
-
- <details open>
-  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
-
-  <div align="center">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg"
-      />
-      <img
-        src="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg"
-        alt="Pacman contribution animation"
-      />
-    </picture>
-
-    <br />
-
-    <sub>
-      <i>Auto-generated every 12 hours via GitHub Actions.</i>
-    </sub>
-  </div>
-</details>
-
-<br>
+<h2 align="center">🟡 Pacman Contribution Graph</h2>
 
 <p align="center">
-  <img src="assets/gradient-line.png" width="100%" height="6" alt="Gradient Line" />
+  <img src="https://raw.githubusercontent.com/laganmehra875/laganmehra875/output/pacman-contribution-graph.svg"
+       alt="Pacman contribution animation" />
+</p>
+
+<p align="center">
+  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" alt="Gradient Line">
 </p>
 <!-- ================= PROJECT ================= -->
 
