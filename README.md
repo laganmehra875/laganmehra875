@@ -128,27 +128,38 @@
 
 <!-- ================= ANIMATION ================= -->
 
- <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
+ <details open>
+  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
 
-  <br>
-    
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
-  </picture>
-  <br/>
-  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
-</div>
+  <div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg"
+      />
+      <img
+        src="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg"
+        alt="Pacman contribution animation"
+      />
+    </picture>
+
+    <br />
+
+    <sub>
+      <i>Auto-generated every 12 hours via GitHub Actions.</i>
+    </sub>
+  </div>
 </details>
 
 <br>
 
 <p align="center">
-  <img src="assets/gradient-line.png" width="100%" height="6px" />
+  <img src="assets/gradient-line.png" width="100%" height="6" alt="Gradient Line" />
 </p>
-
 <!-- ================= PROJECT ================= -->
 
 ## 💼 Projects
