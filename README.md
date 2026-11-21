@@ -396,59 +396,22 @@
 </p>
 
 
-<!-- ================= GITHUB STATS ================= -->
+
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
 
   <br>
 
   <p align="center">
-
-    <!-- Row 1: GitHub Stats -->
-    <a href="https://github.com/laganmehra875">
-      <img
-        src="https://gh-readme-profile.vercel.app/api?username=laganmehra875&theme=tokyonight&bg_color=0D1117&title_color=00b3ff&text_color=34A89D&icon_color=70A5FD&username_color=bf91f3"
-        alt="Lalit's GitHub Stats"
-        height="142"
-      />
-    </a>
-
-    <a href="https://github.com/laganmehra875">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=react&hide_border=false&bg_color=0d1117&title_color=00b3ff&icon_color=70A5FD&text_color=34A89D"
-        alt="Lalit's GitHub Stats"
-        height="142"
-      />
-    </a>
-
+    <img src="https://github-readme-stats.vercel.app/api?username=laganmehra875&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=laganmehra875&theme=tokyonight" height="160" alt="GitHub Streak"/>
   </p>
 
-  <br>
-
   <p align="center">
-
-    <!-- Row 2: Streak Stats -->
-    <a href="https://github.com/laganmehra875">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=laganmehra875&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd"
-        alt="Lalit's GitHub Streak"
-        height="162"
-      />
-    </a>
-
-    <!-- Top Languages -->
-    <a href="https://github.com/laganmehra875">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=00b3ff&icon_color=70A5FD&text_color=34A89D"
-        alt="Lalit's Top Languages"
-        height="162"
-      />
-    </a>
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laganmehra875&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
   </p>
 
 </details>
-
 
 
 <!-- ================= FEATURED PROJECTS ================= -->
